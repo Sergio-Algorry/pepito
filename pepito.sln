@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pepe", "pepe\pepe.csproj", "{FE4CE2D9-AE83-457A-97DF-177CE25D425F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pepe.Backend", "pepe.Backend\pepe.Backend.csproj", "{752ABF6E-FA2A-4A44-9E7E-5FB0365065BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4CE2D9-AE83-457A-97DF-177CE25D425F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4CE2D9-AE83-457A-97DF-177CE25D425F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4CE2D9-AE83-457A-97DF-177CE25D425F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4CE2D9-AE83-457A-97DF-177CE25D425F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752ABF6E-FA2A-4A44-9E7E-5FB0365065BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752ABF6E-FA2A-4A44-9E7E-5FB0365065BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752ABF6E-FA2A-4A44-9E7E-5FB0365065BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752ABF6E-FA2A-4A44-9E7E-5FB0365065BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48D912FD-22AD-483E-A636-D65880FB9A82}
+	EndGlobalSection
+EndGlobal
